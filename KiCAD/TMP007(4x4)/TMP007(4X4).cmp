@@ -1,10 +1,17 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 4/10/2015 2:02:19 PM
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 4/18/2015 10:13:25 PM
 
 BeginCmp
 TimeStamp = /552802EE;
 Reference = C1;
 ValeurCmp = 0.1uF;
 IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532FC28;
+Reference = P1;
+ValeurCmp = CONN_5;
+IdModule  = 1X05;
 EndCmp
 
 BeginCmp
@@ -60,56 +67,56 @@ BeginCmp
 TimeStamp = /5527F70C;
 Reference = U1;
 ValeurCmp = TMP007;
-IdModule  = ;
+IdModule  = TMP007;
 EndCmp
 
 BeginCmp
 TimeStamp = /5527F985;
 Reference = U2;
 ValeurCmp = TMP007;
-IdModule  = ;
+IdModule  = TMP007;
 EndCmp
 
 BeginCmp
 TimeStamp = /5527F997;
 Reference = U3;
 ValeurCmp = TMP007;
-IdModule  = ;
+IdModule  = TMP007;
 EndCmp
 
 BeginCmp
 TimeStamp = /5527F9A9;
 Reference = U4;
 ValeurCmp = TMP007;
-IdModule  = ;
+IdModule  = TMP007;
 EndCmp
 
 BeginCmp
 TimeStamp = /5527F9BB;
 Reference = U5;
 ValeurCmp = TMP007;
-IdModule  = ;
+IdModule  = TMP007;
 EndCmp
 
 BeginCmp
 TimeStamp = /5527F9CD;
 Reference = U6;
 ValeurCmp = TMP007;
-IdModule  = ;
+IdModule  = TMP007;
 EndCmp
 
 BeginCmp
 TimeStamp = /5527F9F1;
 Reference = U7;
 ValeurCmp = TMP007;
-IdModule  = ;
+IdModule  = TMP007;
 EndCmp
 
 BeginCmp
 TimeStamp = /5527F9DF;
 Reference = U8;
 ValeurCmp = TMP007;
-IdModule  = ;
+IdModule  = TMP007;
 EndCmp
 
 EndListe
